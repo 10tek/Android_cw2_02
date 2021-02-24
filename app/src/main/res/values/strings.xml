@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">cw2_02</string>
+    <string name="main_activity_name_hint">Name...</string>
+    <string name="main_activity_email_hint">Email...</string>
+    <string name="main_activity_password_hint">Password...</string>
+    <string name="main_activity_confirm_password_hint">Confirm Password...</string>
+    <string name="main_activity_registration_button_text">Registration</string>
 </resources>
